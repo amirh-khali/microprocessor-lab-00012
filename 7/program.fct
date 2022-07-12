@@ -1,0 +1,5 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"program.c" LINE:61
+show DSTACK_USAGE:5 DSTACK_LEVEL:5 FILE:"program.c" LINE:49
+ftoa DSTACK_USAGE:13 DSTACK_LEVEL:18 FILE:"D:\cvavr\lib\stdlib.lib" LINE:959
+floor DSTACK_USAGE:4 DSTACK_LEVEL:22 FILE:"D:\cvavr\lib\math.lib" LINE:659
+ftrunc DSTACK_USAGE:4 DSTACK_LEVEL:26 FILE:"D:\cvavr\lib\math.lib" LINE:544
