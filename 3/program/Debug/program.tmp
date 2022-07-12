@@ -1,0 +1,55 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.51</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>E:\University\00012-MP-L\3\program\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\Program Files (x86)\Atmel\AVR Studio 5.1\extensions\Atmel\AVRAssembler\2.1.51.17\AvrAssembler/Include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\University\00012-MP-L\3\program\program.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\Program Files (x86)\Atmel\AVR Studio 5.1\extensions\Atmel\AVRAssembler\2.1.51.17\AvrAssembler/Include\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\University\00012-MP-L\3\program\Debug/program.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\University\00012-MP-L\3\program\Debug/program.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\University\00012-MP-L\3\program\Debug\program.map</FILE>
+  <FILE>E:\University\00012-MP-L\3\program\Debug\program.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>16</LINE></START>
+  <OC1><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>113</LINE></OC1>
+  <BEGIN><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>31</LINE></BEGIN>
+  <BEGINREVERSE><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>42</LINE></BEGINREVERSE>
+  <TIMER><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>50</LINE></TIMER>
+  <DISPLAY><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>69</LINE></DISPLAY>
+  <CONVERT><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>184</LINE></CONVERT>
+  <DELAY><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>102</LINE></DELAY>
+  <L1><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>103</LINE></L1>
+  <L2><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>104</LINE></L2>
+  <L3><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>105</LINE></L3>
+  <REVERSE0><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>151</LINE></REVERSE0>
+  <FORWARD0><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>119</LINE></FORWARD0>
+  <FORWARD1><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>125</LINE></FORWARD1>
+  <FORWARD2><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>132</LINE></FORWARD2>
+  <FORWARD3><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>139</LINE></FORWARD3>
+  <FORWARD4><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>146</LINE></FORWARD4>
+  <REVERSE1><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>158</LINE></REVERSE1>
+  <REVERSE2><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>165</LINE></REVERSE2>
+  <REVERSE3><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>172</LINE></REVERSE3>
+  <REVERSE4><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>179</LINE></REVERSE4>
+  <C1><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>189</LINE></C1>
+  <C2><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>193</LINE></C2>
+  <C3><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>197</LINE></C3>
+  <C4><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>201</LINE></C4>
+  <C5><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>205</LINE></C5>
+  <C6><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>209</LINE></C6>
+  <C7><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>213</LINE></C7>
+  <C8><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>217</LINE></C8>
+  <C9><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>221</LINE></C9>
+  <C10><FILE>E:\University\00012-MP-L\3\program\program.asm</FILE><LINE>224</LINE></C10>
+ </LABELS>
+</ASSEMBLER_INFO>
