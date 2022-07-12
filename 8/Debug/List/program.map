@@ -1,0 +1,39 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+first                                                                             0x0277       4
+second                                                                            0x027B       4
+res                                                                               0x027F       4
+show                                                                              0x0283       5
+_base_y                                                                           0x0288       4
+_seed                                                                             0x028C       4
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+operand                                                                           R5           1
+state                                                                             R6,R7        2
+_lcd_x                                                                            R4           1
+_lcd_y                                                                            R9           1
+_lcd_maxx                                                                         R8           1
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+main                                                                              0x00077    209
+keypad_scan                                                                       0x00148     85
+_lcd_write_nibble_G100                                                            0x0019D     20
+_lcd_write_data                                                                   0x001B1     12
+lcd_gotoxy                                                                        0x001BD     13
+lcd_clear                                                                         0x001CA     12
+lcd_putchar                                                                       0x001D6     21
+lcd_puts                                                                          0x001EB     17
+lcd_init                                                                          0x001FC     46
+ftoa                                                                              0x0022A    205
+ftrunc                                                                            0x002F7     49
+floor                                                                             0x00328     23
+strcpyf                                                                           0x0033F     13
