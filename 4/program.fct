@@ -1,0 +1,2 @@
+main DSTACK_USAGE:2 DSTACK_LEVEL:2 FILE:"program.c" LINE:68
+timer0_comp_isr DSTACK_USAGE:8 DSTACK_LEVEL:10 FILE:"program.c" LINE:34
